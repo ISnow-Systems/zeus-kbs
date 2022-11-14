@@ -1,0 +1,16 @@
+{
+	"version": "https://zeus.isnow.jp/zeus-page/1/#ns",
+	"data": {
+		"title": "",
+		"meta": {},
+		"ogp": {
+			"opengraph": {
+				"type": "article"
+			},
+			"facebook": {},
+			"twitter": {
+				"card": "summary"
+			}
+		}
+	}
+}
